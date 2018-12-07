@@ -1,4 +1,4 @@
-<!-- Display Data -->
+<!-- Display Data(@Harshad) -->
 		<?php 
 			include('config.php');
 			$sql = "SELECT * FROM users";
